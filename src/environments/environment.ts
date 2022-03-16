@@ -6,7 +6,7 @@ export const environment = {
   production: false,
   clientId: "8V2DSNg1Zr_Hv54DzSPqccGuA88a",
   grantType: "code",
-  scopes: "openid profile email offline_access api",
+  scopes: "openid profile",
   authUrl: "https://localhost:9443",
   authApiUrl: "https://localhost:9443/api",
 };
